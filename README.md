@@ -1,1 +1,1 @@
-This script runs programmes
+This README prepares for the script
