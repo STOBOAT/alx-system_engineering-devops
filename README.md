@@ -1,1 +1,1 @@
-This README prepares for the script
+This script is to create executable files
